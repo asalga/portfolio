@@ -7,7 +7,8 @@
           <h2>Hello there!</h2>
         </header>
         <footer>
-          <a href="#about" class="button style2 down">More</a>
+          <!-- <a href="#about" class="button style2 down">More</a> -->
+          <router-link to="#about" class="button style2 down">more</router-link>
         </footer>
       </div>
     </section>
@@ -25,7 +26,10 @@
           shaders...
         </p>
       </div>
-      <a href="#work" class="button style2 down anchored">Next</a>
+      <!-- <a href="#work" class="button style2 down anchored">Next</a> -->
+      <router-link to="#work" class="button style2 down anchored"
+        >next</router-link
+      >
     </section>
 
     <!-- Client Work -->
