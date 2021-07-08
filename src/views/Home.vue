@@ -7,7 +7,7 @@
           <h2>Hello there!</h2>
         </header>
         <footer>
-          <a href="#about" class="button style2 down">More</a>
+          <a href="/#about" class="button style2 down">More</a>
         </footer>
       </div>
     </section>
@@ -25,14 +25,14 @@
           shaders...
         </p>
       </div>
-      <a href="#work" class="button style2 down anchored">Next</a>
+      <a href="/#work" class="button style2 down anchored">Next</a>
     </section>
 
     <!-- Client Work -->
     <section id="work" class="main style3 primary">
       <div class="content">
         <header>
-          <h2>Client Work</h2>
+          <h2 class="white">Client Work</h2>
           <p>Selected client work</p>
         </header>
 
