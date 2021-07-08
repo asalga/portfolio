@@ -10,6 +10,9 @@ npm run dev
 
 # production with minification
 npm run build
+# copy dist folder
+# go to gh-pages branch
+# overwrite index.html and the static directory
 
 # production and view the bundle analyzer report
 npm run build --report
