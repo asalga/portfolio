@@ -11,9 +11,10 @@
       <div>
         <ul class="default">
           <li>
-            I developed a WebGL experience using three.js to promote the tv show
+            The Undoing website allowed users to explore the world of the show
             "Bitten"
           </li>
+          <li>I worked with designers to</li>
         </ul>
       </div>
     </div>

@@ -15,11 +15,14 @@
       <div>
         <ul class="default">
           <li>
-            I developed a custom vertical and horizontal infinite-scrolling list
-            of "post-its".
+            Developed a responsive vertical and horizontal infinite-scrolling
+            list of "post-its" that adapted around the header copy
           </li>
-          <li>Integrated carousel</li>
-          <li>Built page for user input and integrated with backend</li>
+
+          <li>Created a custom form for users to enter in messages</li>
+          <li>Integrated front-end form with the back-end</li>
+          <li>Created a carousel to browse all messages written by users</li>
+          <li>Added basic leader line animation for "post-it" form</li>
         </ul>
       </div>
     </div>

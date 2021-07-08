@@ -17,8 +17,10 @@
           <li>
             Developed UI and various modules for Mustang customization website
           </li>
+          <li>Created custom controls to position the car in streetview</li>
           <li>
-            Developed script to generate images to support non-WebGL browsers
+            Developed a script to generate images to support non-WebGL (IE)
+            browsers
           </li>
           <li>
             Resolved and tracked a variety of desktop and mobile tickets using

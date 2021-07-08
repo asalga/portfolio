@@ -19,7 +19,7 @@
           </li>
           <li>
             Developed responsive landing pages using HTML, Bootstrap, CSS, SCSS
-            & JS
+            &amp; JS
           </li>
           <li>
             Led a small team of developers and assisted with debugging and

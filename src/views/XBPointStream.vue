@@ -21,10 +21,13 @@
             Developed a cross-browser point cloud (3D image) rendering library
             using WebGL
           </li>
-          <li>Managed Lighthouse issue tracking system and code repository</li>
           <li>
-            Wrote several point cloud parsers and shaders to extend library
+            Wrote several point cloud parsers to manage different point cloude
+            file formats
           </li>
+
+          <li>Created custom shaders to extend library</li>
+          <li>Managed Lighthouse issue tracking system and code repository</li>
         </ul>
       </div>
     </div>
