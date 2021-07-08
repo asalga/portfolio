@@ -1,5 +1,5 @@
 <template>
-  <section id="work" class="main primary">
+  <section class="main primary">
     <div class="content">
       <header>
         <h2>Mustang Customizer</h2>

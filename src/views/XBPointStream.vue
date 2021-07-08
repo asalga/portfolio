@@ -1,5 +1,5 @@
 <template>
-  <section id="work" class="main primary">
+  <section class="main primary">
     <div class="content">
       <header>
         <h2>XB Pointstream</h2>
@@ -25,7 +25,6 @@
             Wrote several point cloud parsers to manage different point cloude
             file formats
           </li>
-
           <li>Created custom shaders to extend library</li>
           <li>Managed Lighthouse issue tracking system and code repository</li>
         </ul>

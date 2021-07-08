@@ -1,5 +1,5 @@
 <template>
-  <section id="work" class="main primary">
+  <section class="main primary">
     <div class="content">
       <header>
         <h2>The Space We Hold</h2>

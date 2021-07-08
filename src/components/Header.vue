@@ -1,6 +1,8 @@
 <template>
   <header id="header">
-    <h1>Andor Salga</h1>
+    <h1>
+      <router-link to="/#intro">Andor Salga</router-link>
+    </h1>
     <nav>
       <ul>
         <li><router-link to="/#intro">Intro</router-link></li>
