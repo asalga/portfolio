@@ -1,7 +1,11 @@
 <template>
   <div>
     <!-- Intro -->
-    <section id="intro" class="main style1 dark fullscreen">
+    <!-- <section id="intro" class="main style1 dark fullscreen"> -->
+    <!-- <section id="intro" class="main style1 primary"> -->
+    <!-- <div class="content"> -->
+
+    <section id="intro" class="main style1 left dark fullscreen">
       <div class="content">
         <header>
           <h2>Hello there!</h2>
