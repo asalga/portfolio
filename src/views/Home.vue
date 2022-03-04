@@ -24,10 +24,9 @@
         </header>
         <p>Hi, I'm Andor.</p>
         <p>
-          I love real-time graphics, game development, image processing, data
-          visualization, animation, education, generative art, creative coding,
-          algorithms, design patterns, interactive media, math, javascript,
-          shaders...
+          I love real-time graphics, game development, data visualization,
+          animation, education, creative coding, algorithms, design patterns,
+          interactive media, math, javascript, shaders...
         </p>
       </div>
       <!-- <a href="#work" class="button style2 down anchored">Next</a> -->
@@ -100,6 +99,63 @@
                 src="../images/thumbs/06.jpg"
                 title="Mustang Customizer"
                 alt="Mustang Customizer"
+              />
+            </router-link>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Games / Art / Hobby -->
+    <section id="games" class="main style3 primary">
+      <div class="content">
+        <header>
+          <h2>Games / Art</h2>
+          <p>I love creating generative art and games in my spare time</p>
+        </header>
+
+        <!-- Gallery  -->
+        <div class="gallery">
+          <!-- Animal Memory Match -->
+          <article class="from-left">
+            <router-link to="" class="image fit">
+              <img
+                src="../images/thumbs/games-and-art/amm-sm.jpg"
+                title="Animal Memory Match"
+                alt="Animal Memory Match"
+              />
+            </router-link>
+          </article>
+
+          <!-- Impressionism -->
+          <article class="from-right">
+            <router-link to="" class="image fit">
+              <img
+                src="../images/thumbs/games-and-art/impressionism-sm.jpg"
+                title="Impressionism"
+                alt="Impressionism"
+              />
+            </router-link>
+          </article>
+
+          <!-- Merry Clickmas -->
+          <article class="from-left">
+            <router-link to="" class="image fit">
+              <img
+                src="../images/thumbs/games-and-art/merry-clickmas-sm.png"
+                title="Merry Clickmas"
+                alt="Merry Clickmas"
+              />
+            </router-link>
+          </article>
+
+          <!-- Jigsaw  -->
+          <article class="from-right">
+            <router-link to="" class="image fit">
+              <img
+                src="../images/thumbs/games-and-art/jigsaw-sm.jpg"
+                title="Jigsaw"
+                alt="Jigsaw"
               />
             </router-link>
           </article>
