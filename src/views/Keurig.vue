@@ -14,8 +14,8 @@
         <h3>Development</h3>
         <ul class="default">
           <li>
-            Developed a complete framework for a small dev team allowing all
-            developers to create responsive landing pages on Hybris
+            Created a complete framework for a development team allowing all
+            developers to make responsive landing pages on Hybris
           </li>
           <li>
             Developed responsive landing pages using HTML, Bootstrap, CSS, SCSS
